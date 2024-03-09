@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Data Product Development and Deployment with Streamlit
 ### Requirements
 1. Setup Github account
@@ -34,3 +35,6 @@ streamlit run app.py
 ### Step 4: Deploy App Online
 1. Commit repository to GitHub.
 2. Deploy on Streamlit community cloud.
+=======
+# dssi-py
+>>>>>>> origin/main
